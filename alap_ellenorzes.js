@@ -1,3 +1,5 @@
+// /^[a-zA-ZáéíóöőúüűÁÉÍÓÖŐÚÜŰ ]+$/
+
 let nevkiir = document.getElementById("nevEredmeny");
 function ellenorAlap(){
     let nev = document.forms["alapUrlap"]["nev"].value;
