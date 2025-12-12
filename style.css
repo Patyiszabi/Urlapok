@@ -113,7 +113,9 @@ code {
 
 #nevEredmeny.hiba{
     color: red;
-    background-color: white;
-    
+}
+
+#telEredmeny.hiba, #mailEredmeny.hiba {
+    color: red;
 }
 
